@@ -1,5 +1,3 @@
-import java.util.*;
-//Recursion--
 
 public class Recursion {
     static void p(int n) {
